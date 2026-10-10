@@ -25,8 +25,8 @@ from aiogram.types import (
 )
 
 # ==================== КОНФИГУРАЦИЯ ====================
-BOT_TOKEN = "8990355270:AAFbZ56FwgwYACqstmlB3ihjQVgPpvQcPZc"
-ADMIN_IDS = [1117835915]
+BOT_TOKEN = ""
+ADMIN_IDS = []
 GEMINI_API_KEY = ""
 
 DEFAULT_GROUP = "УЭБО-07"
